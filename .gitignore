@@ -1,5 +1,6 @@
 # TrendRadar - 不入库文件
 output/
+ssh-key/
 docker/.env
 .venv/
 __pycache__/
